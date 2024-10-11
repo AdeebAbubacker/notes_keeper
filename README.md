@@ -12,16 +12,6 @@ The Notes Keeper app is a Flutter project that allows users to create, edit, and
 #### Onboarding Screen: 
  A brief introduction screen to guide new users on how to use the app.
 
- ## Demo 
-![2](https://github.com/user-attachments/assets/272be148-6051-4ed2-bbe9-bdd2608de591)
 
-## Contributions
-As this project focuses on showcasing the integration of Hive with Flutter, contributions are currently not being accepted. Feedback and suggestions are welcome!
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for more details.
-
-## Contact
-For any questions or feedback, feel free to reach out via [rabia10march@gmail.com@example.com]
 
 
